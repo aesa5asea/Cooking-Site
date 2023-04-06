@@ -1,0 +1,99 @@
+article{
+    margin: 50px 50px 50px;
+    text-align: auto;
+    
+    color: #DEB992 ;
+}
+
+h2{
+    text-align: center;
+    color: #DEB992 ;
+}
+
+p{
+    /*margin: 50px 500px 50px;*/
+    text-align: center;
+    color: #DEB992 ;
+    font-size: 20px;
+}
+
+body {
+	background-color: #051622;
+	color:#DEB992 ;
+	max-width: 850px ;
+	margin: auto ;
+	padding: 0 16px ;
+	margin-bottom: 500px ;
+}
+
+
+h1{
+    text-align: center;
+    color: #1ba098 ;
+}
+
+footer{
+    color: #DEB992 ;
+}
+
+
+ol{
+    text-align: left;
+    color: #DEB992;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.paragraph{
+    color:#1ba098;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+#randomImage {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+a:link {
+    color: #DEB992;
+}
+
+a:hover{
+    color: #1ba098;
+}
+
+a:visited{
+    color: #1ba098;
+}
+
+#mainList {
+    column-count: 2;
+    list-style-position: inside;
+    color: #DEB992;
+    text-align: start;
+}
+
+#mainList li {
+	padding: .25em ;
+    margin: auto;
+}
+
+#recepieList {
+    text-align: left;
+    color: #DEB992;
+    
+}
