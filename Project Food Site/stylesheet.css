@@ -97,3 +97,13 @@ a:visited{
     color: #DEB992;
     
 }
+
+#inner {
+    display: table;
+    margin: 0 auto;
+    border: 1px ;
+}
+
+#outer {
+    border: 1px;
+    width: 100%
